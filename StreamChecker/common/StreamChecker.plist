@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accountId</key>
+	<string>UA-0000000-00</string>
+	<key>debugEnabled</key>
+	<true/>
+	<key>AddStreamView2ViewController</key>
+	<string>Novy/Oprava stream</string>
+	<key>FormatViewController</key>
+	<string>Nastaveni formatu</string>
+	<key>HistoryIntervalViewController</key>
+	<string>Nasteveni intervalu hostorie</string>
+	<key>ServerTypeViewC ontroller</key>
+	<string>Nastaveni typu servderu</string>
+	<key>anonymizeIpEnabled</key>
+	<string>NO</string>
+	<key>SettingViewController</key>
+	<string>Nastaveni</string>
+	<key>ContactViewController</key>
+	<string>Kontakt</string>
+	<key>HistoryViewController</key>
+	<string>Historie</string>
+	<key>HomeViewController</key>
+	<string>Home page</string>
+	<key>InfoViewController</key>
+	<string>Info</string>
+	<key>SetIntervalViewController</key>
+	<string>Nastveni intervalu</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+/* 
+  strings.strings
+  StreamChecker
+
+  Created by Jan Damek on /288/12.
+  Copyright (c) 2012 Jan Damek. All rights reserved.
+*/
+"ICCAST" = "ICECAST";
+"SHOUTCAST" = "SHOUTCAST";
+"N/A" = "N/A";
+
+"MP3" = "MP3";
+"OOG" = "OOG";
+"AAC" = "AAC";
+
+"deset" = "10";
+"dvacet" = "20";
+"tricet" = "30";
+"den" = "Day";
+"tyden" = "Week";
+"mesic" = "Month";
+"kvartal" = "k v a r t a  l - prelozit";
+
+"nodata"= "no data";
+"working" = "Working";
+"silent" = "Silent";
